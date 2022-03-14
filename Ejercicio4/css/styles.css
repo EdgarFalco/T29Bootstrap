@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(175, 175, 175);
+}
+
+.buscar {
+    margin-right: 40%;
+}
+
+.boton {
+    background-color: rgb(222, 223, 224);
+}
+
+
+.final {
+    margin-right: 1%;
+}
+
+.inicio {
+    margin-left: 2%;
+}
+
+.box2 {
+    background-color: rgb(235, 235, 235);
+    border-top: solid 1px rgb(151, 151, 151);
+}
+
+.gris {
+    background-color: rgb(182, 179, 179);
+}
